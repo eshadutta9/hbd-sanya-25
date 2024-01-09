@@ -1,0 +1,10 @@
+<form action="" method='GET'>
+    {% if is_correct %}
+        <p class="response">CORRECT!</p>
+        <p><img src="https://media.giphy.com/media/fybqQXTnTxDDLDe8wh/giphy.gif"></p>
+    {% else %}
+        <p class="response">INCORRECT! You are one step closer to being removed from the WhatsApp group.</p>
+        <p><img src="https://media.giphy.com/media/xT4Ap3PcF1ENOwMAF2/giphy.gif"></p>
+    {% endif %}
+    <input class="button bigger_button" type="submit" value="{{ B_value }}"> 
+</form>

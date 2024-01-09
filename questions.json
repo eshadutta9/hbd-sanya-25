@@ -1,0 +1,10 @@
+{
+    "first_set": [
+        {
+            "question": "Which superhero did Arpita emulate one evening in college in hopes of climbing her wall?",
+            "correctAnswer": "Spiderman",
+            "firstIncorrectAnswer": "Antman",
+            "secondIncorrectAnswer": "Shaktiman"
+        }
+    ]
+}
