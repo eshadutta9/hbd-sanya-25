@@ -4,17 +4,18 @@ from session_variables import create_session_variables, update_session_variables
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'XYZ'
+app.config['session_variables_created_hbd'] = False
 
 data = get_data_from_json_file()
 question_categories_list = get_question_categories(data)
 print("question_categories_list : ", question_categories_list)
 @app.route('/', methods=['GET', 'POST'])
 def start():
-    print("GLOBALS", globals())
-    if 'session_variables_created_hbd' not in globals():
-        globals()['session_variables_created_hbd'] = True 
+    print("HERE!!!", app.config['session_variables_created_hbd'])
+    if(app.config['session_variables_created_hbd'] == False):
+        app.config['session_variables_created_hbd'] = True 
         create_session_variables(session, question_categories_list)
-    
+    print("HERE!!!!!", app.config['session_variables_created_hbd'])
     if request.method == 'GET':
         show_answer = False
         
