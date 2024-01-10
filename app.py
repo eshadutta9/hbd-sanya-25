@@ -11,11 +11,9 @@ question_categories_list = get_question_categories(data)
 print("question_categories_list : ", question_categories_list)
 @app.route('/', methods=['GET', 'POST'])
 def start():
-    print("HERE!!!", app.config['session_variables_created_hbd'])
     if(app.config['session_variables_created_hbd'] == False):
         app.config['session_variables_created_hbd'] = True 
         create_session_variables(session, question_categories_list)
-    print("HERE!!!!!", app.config['session_variables_created_hbd'])
     if request.method == 'GET':
         show_answer = False
         
@@ -28,6 +26,9 @@ def start():
         session['question_dict'] = info[0]
         # set the correct answer
         session['correct_answer'] = info[1]
+        # set the gifs
+        session['correct_gif'] = info[2]
+        session['incorrect_gif'] = info[3]
 
         session['options'] = shuffle_button_options(info[0])
     

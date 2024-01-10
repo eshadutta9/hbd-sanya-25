@@ -11,6 +11,9 @@ def create_session_variables(session, question_category_list):
 
     session['correct_answer'] = 0
 
+    session['correct_gif'] = ''
+
+    session['incorrect_gif'] = ''
 
 def update_session_variables(session):
     # 0 correct / 0 incorrect

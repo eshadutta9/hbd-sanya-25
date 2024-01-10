@@ -53,6 +53,8 @@ def create_question_dict(quotes_dict, question_categories_list, session):
     question_dict = quotes_dict[question_category][0]
     
     correct_answer = quotes_dict[question_category][0]["correctAnswer"]
+    correct_gif = quotes_dict[question_category][0]["correct_gif"]
+    incorrect_gif = quotes_dict[question_category][0]["incorrect_gif"]
 
-    return question_dict, correct_answer
+    return question_dict, correct_answer, correct_gif, incorrect_gif
     
