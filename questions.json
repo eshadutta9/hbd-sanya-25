@@ -6,5 +6,77 @@
             "firstIncorrectAnswer": "Antman",
             "secondIncorrectAnswer": "Shaktiman"
         }
+    ],
+        "second_set": [
+        {
+            "question": "Uno is like Percy on _______ :",
+            "correctAnswer": "Cocaine",
+            "firstIncorrectAnswer": "Heroine",
+            "secondIncorrectAnswer": "LSD"
+        }
+    ],
+        "third_set": [
+        {
+            "question": "Which one of these is not a LOSERS voice?",
+            "correctAnswer": "Mehhhhhhhh",
+            "firstIncorrectAnswer": "Yeuuuuuuuuuu",
+            "secondIncorrectAnswer": "Awooooooooo"
+        }
+    ],
+        "fourth_set": [
+        {
+            "question": "SRM warden would accuse us of having a ____ bite:",
+            "correctAnswer": "Man",
+            "firstIncorrectAnswer": "Dog",
+            "secondIncorrectAnswer": "Spider"
+        }
+    ],
+        "fifth_set": [
+        {
+            "question": "Which one of our exes claims we have no right to be ugly because if we feel ugly what are the other girls supposed to feel?",
+            "correctAnswer": "Yuvi",
+            "firstIncorrectAnswer": "Mayank",
+            "secondIncorrectAnswer": "Aditya Tripathi"
+        }
+    ],
+        "sixth_set": [
+        {
+            "question": "Whose sibling is an empath?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Arpita",
+            "secondIncorrectAnswer": "Poorvi"
+        }
+    ],
+        "seventh_set": [
+        {
+            "question": "Which fruit has Arpita pretended to be on Bumble just for the kicks?",
+            "correctAnswer": "Papaya",
+            "firstIncorrectAnswer": "Passionfruit",
+            "secondIncorrectAnswer": "Blueberry"
+        }
+    ],
+        "eighth_set": [
+        {
+            "question": "Which song did Arpita infamously sing in her school singing competition?",
+            "correctAnswer": "Om Sai Ram",
+            "firstIncorrectAnswer": "I'm a Barbie Girl",
+            "secondIncorrectAnswer": "song"
+        }
+    ],
+        "ninth_set": [
+        {
+            "question": "Whose partner wants their kids to be vegetarians?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Esha",
+            "secondIncorrectAnswer": "Poorvi"
+        }
+    ],
+        "tenth_set": [
+        {
+            "question": "Who has the hottest mom?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Esha",
+            "secondIncorrectAnswer": "Arpita"
+        }
     ]
 }
