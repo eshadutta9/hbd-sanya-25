@@ -10,8 +10,9 @@ question_categories_list = get_question_categories(data)
 print("question_categories_list : ", question_categories_list)
 @app.route('/', methods=['GET', 'POST'])
 def start():
-    if 'session_variables_created' not in globals():
-        globals()['session_variables_created'] = True 
+    print("GLOBALS", globals())
+    if 'session_variables_created_hbd' not in globals():
+        globals()['session_variables_created_hbd'] = True 
         create_session_variables(session, question_categories_list)
     
     if request.method == 'GET':
