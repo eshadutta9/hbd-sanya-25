@@ -41,7 +41,7 @@
     ],
         "fifth_set": [
         {
-            "question": "Which one of our exes claims we have no right to be ugly because if we feel ugly what are the other girls supposed to feel?",
+            "question": "Which one of our exes claims we have no right to feel ugly because if we feel ugly what are the other girls supposed to feel?",
             "correctAnswer": "Yuvi",
             "firstIncorrectAnswer": "Mayank",
             "secondIncorrectAnswer": "Aditya Tripathi",
@@ -74,7 +74,7 @@
             "question": "Which song did Arpita infamously sing in her school singing competition?",
             "correctAnswer": "Om Sai Ram",
             "firstIncorrectAnswer": "I'm a Barbie Girl",
-            "secondIncorrectAnswer": "song",
+            "secondIncorrectAnswer": "Jana Gana Mana",
             "correct_gif": "https://media.giphy.com/media/XftcJNGfgAY1PdamHS/giphy.gif",
             "incorrect_gif": "https://media.giphy.com/media/Ces0zM8hZErBK/giphy.gif"
         }
@@ -95,6 +95,16 @@
             "correctAnswer": "Sanya",
             "firstIncorrectAnswer": "Esha",
             "secondIncorrectAnswer": "Arpita",
+            "correct_gif": "https://media.giphy.com/media/qvWCTAG5MxOmc/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/hm8tsCdoairlK/giphy.gif"
+        }
+    ],
+        "eleventh_set": [
+        {
+            "question": "How many brain cells do we have among the four of us?",
+            "correctAnswer": "1",
+            "firstIncorrectAnswer": "0",
+            "secondIncorrectAnswer": "50",
             "correct_gif": "https://media.giphy.com/media/qvWCTAG5MxOmc/giphy.gif",
             "incorrect_gif": "https://media.giphy.com/media/hm8tsCdoairlK/giphy.gif"
         }

@@ -1,8 +1,9 @@
 <form action="" method='GET'>
     {% if is_correct %}
         <p class="response">CORRECT!</p>
-        <!-- <p><img src="https://media.giphy.com/media/fybqQXTnTxDDLDe8wh/giphy.gif"></p> -->
         <p><img src="{{S['correct_gif']}}"></p>
+    {% elif is_finished %}
+        <p>Congratulations! you have won the test of our friendship.</p>
     {% else %}
         <p class="response">INCORRECT! You are one step closer to being removed from the WhatsApp group.</p>
         <p><img src="{{S['incorrect_gif']}}"></p>
