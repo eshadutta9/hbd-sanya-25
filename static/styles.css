@@ -1,5 +1,9 @@
 body {
-	background: rgb(150, 148, 148);
+/*    background: rgb(150, 148, 148);*/
+    background: url("./pics/leo_2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
     font-family: 'Playfair Display', serif;
 }
 

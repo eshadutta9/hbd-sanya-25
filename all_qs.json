@@ -1,0 +1,112 @@
+{
+    "first_set": [
+        {
+            "question": "Which superhero did Arpita emulate one evening in college in hopes of climbing her wall?",
+            "correctAnswer": "Spiderman",
+            "firstIncorrectAnswer": "Antman",
+            "secondIncorrectAnswer": "Shaktiman",
+            "correct_gif": "https://media.giphy.com/media/fybqQXTnTxDDLDe8wh/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/xT4Ap3PcF1ENOwMAF2/giphy.gif"
+        }
+    ],
+        "second_set": [
+        {
+            "question": "Uno is like Percy on _______ :",
+            "correctAnswer": "Cocaine",
+            "firstIncorrectAnswer": "Heroine",
+            "secondIncorrectAnswer": "LSD",
+            "correct_gif": "https://media.giphy.com/media/XMmf6i3xuKZiPMvNZe/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/pJmnk86fXFNmrUb8LB/giphy.gif"
+        }
+    ],
+        "third_set": [
+        {
+            "question": "Which one of these is not a LOSERS voice?",
+            "correctAnswer": "Mehhhhhhhh",
+            "firstIncorrectAnswer": "Yeuuuuuuuuuu",
+            "secondIncorrectAnswer": "Awooooooooo",
+            "correct_gif": "https://media.giphy.com/media/ej1WNA2G75DfUai7NR/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/dCCXxrrAMtwF3tYjcP/giphy.gif"
+        }
+    ],
+        "fourth_set": [
+        {
+            "question": "SRM warden would accuse us of having a ____ bite:",
+            "correctAnswer": "Man",
+            "firstIncorrectAnswer": "Dog",
+            "secondIncorrectAnswer": "Spider",
+            "correct_gif": "https://media.giphy.com/media/kqzzIrxqQPQNSrVBQC/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/KbwzYYv7cziNd4PiuC/giphy.gif"
+        }
+    ],
+        "fifth_set": [
+        {
+            "question": "Which one of our exes claims we have no right to feel ugly because if we feel ugly what are the other girls supposed to feel?",
+            "correctAnswer": "Yuvi",
+            "firstIncorrectAnswer": "Mayank",
+            "secondIncorrectAnswer": "Aditya Tripathi",
+            "correct_gif": "https://media.giphy.com/media/YOGN4rRD44hPDlVdha/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/VWHmc8nKDRjsA/giphy.gif"
+        }
+    ],
+        "sixth_set": [
+        {
+            "question": "Whose sibling is an empath?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Arpita",
+            "secondIncorrectAnswer": "Poorvi",
+            "correct_gif": "https://media.giphy.com/media/eV1eNbL9F9jZjyBPGV/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/VDIqlLXSWas36/giphy.gif"
+        }
+    ],
+        "seventh_set": [
+        {
+            "question": "Which fruit has Arpita pretended to be on Bumble just for the kicks?",
+            "correctAnswer": "Papaya",
+            "firstIncorrectAnswer": "Passionfruit",
+            "secondIncorrectAnswer": "Blueberry",
+            "correct_gif": "https://media.giphy.com/media/ncTvVeWqvnNu4lZQIH/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/piTERt2CEdrLt2WLv0/giphy.gif"
+        }
+    ],
+        "eighth_set": [
+        {
+            "question": "Which song did Arpita infamously sing in her school singing competition?",
+            "correctAnswer": "Om Sai Ram",
+            "firstIncorrectAnswer": "I'm a Barbie Girl",
+            "secondIncorrectAnswer": "Jana Gana Mana",
+            "correct_gif": "https://media.giphy.com/media/XftcJNGfgAY1PdamHS/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/Ces0zM8hZErBK/giphy.gif"
+        }
+    ],
+        "ninth_set": [
+        {
+            "question": "Whose partner wants their kids to be vegetarians?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Esha",
+            "secondIncorrectAnswer": "Poorvi",
+            "correct_gif": "https://media.giphy.com/media/vmHRZRaIiMaju/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/a4gLl8darNId2/giphy.gif"
+        }
+    ],
+        "tenth_set": [
+        {
+            "question": "Who has the hottest mom?",
+            "correctAnswer": "Sanya",
+            "firstIncorrectAnswer": "Esha",
+            "secondIncorrectAnswer": "Arpita",
+            "correct_gif": "https://media.giphy.com/media/qvWCTAG5MxOmc/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/hm8tsCdoairlK/giphy.gif"
+        }
+    ],
+        "eleventh_set": [
+        {
+            "question": "How many brain cells do we have among the four of us?",
+            "correctAnswer": "1",
+            "firstIncorrectAnswer": "0",
+            "secondIncorrectAnswer": "50",
+            "correct_gif": "https://media.giphy.com/media/qvWCTAG5MxOmc/giphy.gif",
+            "incorrect_gif": "https://media.giphy.com/media/hm8tsCdoairlK/giphy.gif"
+        }
+    ]
+}

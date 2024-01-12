@@ -98,11 +98,11 @@ def start():
         # set the button value to "NEXT QUESTION" or "START OVER"
         if session.get('current_question') == session['number_of_questions']:
             is_finished = True
-            button_value = "NEXT"
+            button_value = "START OVER (or don't)"
         else:
             button_value = "NEXT QUESTION"
 
-        return render_template('index.html', show_answer=show_answer, S=session, is_correct=is_correct, B_value=button_value)
+        return render_template('index.html', show_answer=show_answer, S=session, is_correct=is_correct, is_finished=is_finished, B_value=button_value)
     
 
 
