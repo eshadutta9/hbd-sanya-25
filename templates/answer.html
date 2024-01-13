@@ -2,7 +2,7 @@
     {% if is_correct %}
         <p class="response"><b>CORRECT!</b></p>
         <p><img src="{{S['correct_gif']}}"></p>
-    {% else %}
+    {% elif not is_correct %}
         <p class="response"><b>INCORRECT! You are one step closer to being removed from the WhatsApp group.</b></p>
         <p><img src="{{S['incorrect_gif']}}"></p>
     {% endif %}
